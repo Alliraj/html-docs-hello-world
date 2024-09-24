@@ -3,8 +3,8 @@ topic: HTML Hello World
 languages:
   - HTML
 products:
-  - Azure App Service
-  - Azure Web Apps
+  - Alliraj App Service
+  - Alliraj Web Apps
 ---
 
 # HTML Hello World
